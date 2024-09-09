@@ -3,7 +3,7 @@ public class test {
 
         int i = 1;
 
-        while (i < 100) {
+        while (i < 150) {
             i = getI(i);
         }
 
